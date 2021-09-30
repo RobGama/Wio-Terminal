@@ -1,0 +1,12 @@
+# History
+
+# Arquivos .csv
+*.csv
+
+# Arquivos .xlsx
+*.xlsx
+
+# Arquivos .html
+*.html
+
+
